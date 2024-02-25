@@ -3,6 +3,7 @@
 # returns the position of the item if found
 # returns None if the item doesn't exist
 # utilises low, middle and high index
+# run time = O(log n)
 
 def binary_search(arr, item):
     arr.sort()    # sort the data in the array
