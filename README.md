@@ -22,7 +22,7 @@ This repository contains the example codes, notes for the algorithms and my solu
 <br><br>  
 6. Chapter Six
 <br>- Graph
-<br>- Breath-First Search
+<br>- Breadth-First Search
  <br><br> 
 7. Chapter Seven
 <br>- Dijkstra's Algorithm
