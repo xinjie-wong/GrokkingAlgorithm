@@ -13,3 +13,4 @@
 # run time:
 # O(V + E)
 # where V = number of vertices/nodes, E = number of edges
+# only suitable for unweighted graph
