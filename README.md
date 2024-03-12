@@ -31,7 +31,7 @@ This repository contains the example codes, notes for the algorithms and my solu
 <br>- Greedy Algorithm
 <br><br>
 9. Chapter Nine
-<br>- Dyamic Programming
+<br>- Dynamic Programming
 <br><br>
 10. Chapter Ten
 <br>- K-Nearest Neighbors
