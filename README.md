@@ -35,8 +35,6 @@ This repository contains the example codes, notes for the algorithms and my solu
 <br><br>
 10. Chapter Ten
 <br>- K-Nearest Neighbors
-<br><br>
-11. Chapter Eleven
 <br>- Trees
 <br>- Inverted Indexes
 <br>- The Fourier Transform
