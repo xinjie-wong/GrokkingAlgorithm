@@ -35,10 +35,3 @@ This repository contains the example codes, notes for the algorithms and my solu
 <br><br>
 10. Chapter Ten
 <br>- K-Nearest Neighbors
-<br>- Trees
-<br>- Inverted Indexes
-<br>- The Fourier Transform
-<br>- Parellel Algorithm
-<br>- MapReduce
-<br>- Bloom Filters and HyperLogLog
-<br>- SHA Algorithm
