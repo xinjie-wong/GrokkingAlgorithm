@@ -17,7 +17,7 @@
 # Answer: O(log n)
 
 # Exercies 1.4
-# You have a name, and you want to find the person's phone number in the phone book
+# You have a phone number, and you want to ind the person’s name in the phone book. 
 # Hint: You'll have to search through the whole book!
 # Answer: O(n)
 
