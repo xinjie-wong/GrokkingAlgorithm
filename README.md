@@ -1,5 +1,5 @@
 <h1>Grokking Algorithms</h1>
-This repository contains the example codes, notes for the algorithms and my solutions for the exercises in the book, Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People (First Edition) by Aditya Y. Bhargava
+This repository contains the example codes, personal notes for the algorithms and my personal solutions for the exercises in the book, Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People (First Edition) by Aditya Y. Bhargava
 
 <h2>Content</h2>
 1. Chapter One
